@@ -1,0 +1,81 @@
+body{
+    background-image: url("./img/background_dark.jpg");
+    background-size: cover;
+    padding: 25px 0;
+    height: 100%;
+    position: relative;
+    text-align: center;
+  }
+.razao-empresa{
+    color: white;
+    margin: 1.5em;
+    text-align: center;
+}
+
+.box-formulario{
+    width: 940px;
+    padding: 30px 15px 15px 15px;
+    margin: 20px auto;
+    box-sizing: border-box;
+    border: transparent;
+    box-sizing: border-box;
+    box-shadow: -3px -3px 10px #000000, inset 0 0 0 3000px rgba(112, 112, 112, 0.822);
+    border-radius: 30px;
+    clear: left;
+    text-align: center;
+}
+.titulo-principal{
+    color: white;
+    margin: 30px;
+}
+.subtitulo-principal{
+    color: white;
+    margin: 30px;
+}
+.foto-cofre{
+    height: 250px;
+}
+.foto-perfil{
+    height: 50px;
+}
+
+.copyright {
+    text-align: center;
+    color: white;
+    padding: 40px 0;
+   
+}
+.enviar {
+    margin: 2em 0.4em;
+    width: 20%;
+    padding: 10px 0;
+    background: rgb(65, 65, 65);
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    transition: 1s all;
+    cursor: pointer;
+    text-align: center;
+}
+
+.enviar:hover {
+    background: rgb(193, 194, 196);
+    transform: scale(1.0);
+}
+
+.form-group{
+    color:white;
+    margin: 1em 1em;
+    margin-bottom: 0.1em;
+}
+.login{
+    color:white;
+    margin: 3em 3em;
+    margin-bottom: 0.1em;
+}
+.form-control{
+    justify-content: center;
+    margin-bottom: 0.1em;
+}
